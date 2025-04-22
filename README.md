@@ -16,8 +16,3 @@ A machine learning project that classifies road sections into **High**, **Medium
 - **scikit‑learn** utilities for train‑test splitting and evaluation metrics. :contentReference[oaicite:8]{index=8}  
 - **Matplotlib** for plotting the confusion matrix and visualizing results. :contentReference[oaicite:9]{index=9}
 
-## Installation
-
-1. **Clone** the repository:  
-   ```bash
-   git clone https://github.com/<username>/traffic-congestion-prediction.git
